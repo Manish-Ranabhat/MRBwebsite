@@ -72,7 +72,7 @@ $(document).ready(function(){
 
     var typed = new Typed(".typing", {
 
-strings: ["Junior System Administrator", "IT Support", "Cloud Enthusiast", "Database Enthusiatic"],
+strings: ["Junior System Administrator", "IT Support", "Microsoft and Cloud Enthusiast", "Database Enthusiatic"],
 
         typeSpeed: 100,
 
